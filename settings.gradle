@@ -1,0 +1,3 @@
+include ':SmartLinkOpenSDK'
+include ':app'
+rootProject.name = "SmartlinkOpen"
